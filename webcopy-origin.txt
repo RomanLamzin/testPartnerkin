@@ -1,0 +1,504 @@
+Uri: https://piton.su/
+File Name: C:\Users\lamzi\Desktop\testProj\piton.su\index.htm
+Content Type: text/html
+
+Uri: https://piton.su/images/gallery/6.jpg
+File Name: C:\Users\lamzi\Desktop\testProj\piton.su\images\gallery\6.jpg
+Content Type: image/jpeg
+
+Uri: https://piton.su/images/gallery/1.jpg
+File Name: C:\Users\lamzi\Desktop\testProj\piton.su\images\gallery\1.jpg
+Content Type: image/jpeg
+
+Uri: https://piton.su/images/gallery/2.jpg
+File Name: C:\Users\lamzi\Desktop\testProj\piton.su\images\gallery\2.jpg
+Content Type: image/jpeg
+
+Uri: https://piton.su/images/gallery/3.jpg
+File Name: C:\Users\lamzi\Desktop\testProj\piton.su\images\gallery\3.jpg
+Content Type: image/jpeg
+
+Uri: https://piton.su/images/gallery/4.jpg
+File Name: C:\Users\lamzi\Desktop\testProj\piton.su\images\gallery\4.jpg
+Content Type: image/jpeg
+
+Uri: https://piton.su/images/gallery/5.jpg
+File Name: C:\Users\lamzi\Desktop\testProj\piton.su\images\gallery\5.jpg
+Content Type: image/jpeg
+
+Uri: https://piton.su/images/gallery/7.jpg
+File Name: C:\Users\lamzi\Desktop\testProj\piton.su\images\gallery\7.jpg
+Content Type: image/jpeg
+
+Uri: https://piton.su/images/gallery/8.jpg
+File Name: C:\Users\lamzi\Desktop\testProj\piton.su\images\gallery\8.jpg
+Content Type: image/jpeg
+
+Uri: https://piton.su/images/gallery/9.jpg
+File Name: C:\Users\lamzi\Desktop\testProj\piton.su\images\gallery\9.jpg
+Content Type: image/jpeg
+
+Uri: https://piton.su/wp-content/themes/piton/favicon.ico
+File Name: C:\Users\lamzi\Desktop\testProj\piton.su\wp-content\themes\piton\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://piton.su/wp-content/themes/piton/style.css?ver=4.9.12
+File Name: C:\Users\lamzi\Desktop\testProj\piton.su\wp-content\themes\piton\style.css
+Content Type: text/css
+
+Uri: https://piton.su/wp-content/themes/piton/assets/css/bootstrap-grid.min.css?ver=4.9.12
+File Name: C:\Users\lamzi\Desktop\testProj\piton.su\wp-content\themes\piton\assets\css\bootstrap-grid.min.css
+Content Type: text/css
+
+Uri: https://piton.su/wp-content/themes/piton/assets/slick/slick.css?ver=4.9.12
+File Name: C:\Users\lamzi\Desktop\testProj\piton.su\wp-content\themes\piton\assets\slick\slick.css
+Content Type: text/css
+
+Uri: https://piton.su/wp-content/themes/piton/assets/css/fancySelect.css?ver=4.9.12
+File Name: C:\Users\lamzi\Desktop\testProj\piton.su\wp-content\themes\piton\assets\css\fancySelect.css
+Content Type: text/css
+
+Uri: https://piton.su/wp-content/themes/piton/assets/fancybox/jquery.fancybox.css?ver=4.9.12
+File Name: C:\Users\lamzi\Desktop\testProj\piton.su\wp-content\themes\piton\assets\fancybox\jquery.fancybox.css
+Content Type: text/css
+
+Uri: https://piton.su/wp-content/themes/piton/assets/css/style.css?v1_7&ver=4.9.12
+File Name: C:\Users\lamzi\Desktop\testProj\piton.su\wp-content\themes\piton\assets\css\style.css
+Content Type: text/css
+
+Uri: https://piton.su/wp-content/uploads/2018/12/sertif.jpg
+File Name: C:\Users\lamzi\Desktop\testProj\piton.su\wp-content\uploads\2018\12\sertif.jpg
+Content Type: image/jpeg
+
+Uri: https://www.instagram.com/partnerkin_squad/
+File Name: C:\Users\lamzi\Desktop\testProj\piton.su\partnerkin_squad\index.htm
+Content Type: text/html
+
+Uri: https://piton.su/wp-content/themes/piton/assets/js/libs/jquery-3.3.1.min.js?ver=4.9.12
+File Name: C:\Users\lamzi\Desktop\testProj\piton.su\wp-content\themes\piton\assets\js\libs\jquery-3.3.1.min.js
+Content Type: application/x-javascript
+
+Uri: https://script.marquiz.ru/v1.js
+File Name: C:\Users\lamzi\Desktop\testProj\piton.su\v1.js
+Content Type: application/javascript
+
+Uri: https://piton.su/wp-content/uploads/2018/12/logo.svg
+File Name: C:\Users\lamzi\Desktop\testProj\piton.su\wp-content\uploads\2018\12\logo.svg
+Content Type: image/svg+xml
+
+Uri: https://piton.su/wp-content/themes/piton/assets/img/header/Location_pin.svg
+File Name: C:\Users\lamzi\Desktop\testProj\piton.su\wp-content\themes\piton\assets\img\header\Location_pin.svg
+Content Type: image/svg+xml
+
+Uri: https://piton.su/wp-content/themes/piton/assets/img/header/phone.svg
+File Name: C:\Users\lamzi\Desktop\testProj\piton.su\wp-content\themes\piton\assets\img\header\phone.svg
+Content Type: image/svg+xml
+
+Uri: https://piton.su/wp-content/themes/piton/assets/img/header/Down.svg
+File Name: C:\Users\lamzi\Desktop\testProj\piton.su\wp-content\themes\piton\assets\img\header\Down.svg
+Content Type: image/svg+xml
+
+Uri: https://piton.su/wp-content/uploads/2018/12/Forma_1.png
+File Name: C:\Users\lamzi\Desktop\testProj\piton.su\wp-content\uploads\2018\12\Forma_1.png
+Content Type: image/png
+
+Uri: https://piton.su/wp-content/uploads/2018/12/Forma_2.png
+File Name: C:\Users\lamzi\Desktop\testProj\piton.su\wp-content\uploads\2018\12\Forma_2.png
+Content Type: image/png
+
+Uri: https://piton.su/wp-content/uploads/2018/12/Forma_3.png
+File Name: C:\Users\lamzi\Desktop\testProj\piton.su\wp-content\uploads\2018\12\Forma_3.png
+Content Type: image/png
+
+Uri: https://piton.su/wp-content/uploads/2018/12/Forma_4.png
+File Name: C:\Users\lamzi\Desktop\testProj\piton.su\wp-content\uploads\2018\12\Forma_4.png
+Content Type: image/png
+
+Uri: https://piton.su/wp-content/themes/piton/assets/img/main/arrow-forms.png
+File Name: C:\Users\lamzi\Desktop\testProj\piton.su\wp-content\themes\piton\assets\img\main\arrow-forms.png
+Content Type: image/png
+
+Uri: https://piton.su/wp-content/themes/piton/assets/img/main/lock.svg
+File Name: C:\Users\lamzi\Desktop\testProj\piton.su\wp-content\themes\piton\assets\img\main\lock.svg
+Content Type: image/svg+xml
+
+Uri: https://piton.su/wp-content/themes/piton/assets/img/scroll-dark.png
+File Name: C:\Users\lamzi\Desktop\testProj\piton.su\wp-content\themes\piton\assets\img\scroll-dark.png
+Content Type: image/png
+
+Uri: https://piton.su/wp-content/uploads/2018/12/merit_1.png
+File Name: C:\Users\lamzi\Desktop\testProj\piton.su\wp-content\uploads\2018\12\merit_1.png
+Content Type: image/png
+
+Uri: https://piton.su/wp-content/uploads/2018/12/merit_2.png
+File Name: C:\Users\lamzi\Desktop\testProj\piton.su\wp-content\uploads\2018\12\merit_2.png
+Content Type: image/png
+
+Uri: https://piton.su/wp-content/uploads/2018/12/merit_3.png
+File Name: C:\Users\lamzi\Desktop\testProj\piton.su\wp-content\uploads\2018\12\merit_3.png
+Content Type: image/png
+
+Uri: https://piton.su/wp-content/uploads/2018/12/merit_4.png
+File Name: C:\Users\lamzi\Desktop\testProj\piton.su\wp-content\uploads\2018\12\merit_4.png
+Content Type: image/png
+
+Uri: https://piton.su/wp-content/uploads/2018/12/merit_5.png
+File Name: C:\Users\lamzi\Desktop\testProj\piton.su\wp-content\uploads\2018\12\merit_5.png
+Content Type: image/png
+
+Uri: https://piton.su/wp-content/uploads/2018/12/merit_6.png
+File Name: C:\Users\lamzi\Desktop\testProj\piton.su\wp-content\uploads\2018\12\merit_6.png
+Content Type: image/png
+
+Uri: https://piton.su/wp-content/themes/piton/assets/img/scroll-light.png
+File Name: C:\Users\lamzi\Desktop\testProj\piton.su\wp-content\themes\piton\assets\img\scroll-light.png
+Content Type: image/png
+
+Uri: https://piton.su/images/products/1.png
+File Name: C:\Users\lamzi\Desktop\testProj\piton.su\images\products\1.png
+Content Type: image/png
+
+Uri: https://piton.su/wp-content/themes/piton/assets/img/price/Price_tag.svg
+File Name: C:\Users\lamzi\Desktop\testProj\piton.su\wp-content\themes\piton\assets\img\price\Price_tag.svg
+Content Type: image/svg+xml
+
+Uri: https://piton.su/wp-content/themes/piton/assets/img/catalog/Calendar.svg
+File Name: C:\Users\lamzi\Desktop\testProj\piton.su\wp-content\themes\piton\assets\img\catalog\Calendar.svg
+Content Type: image/svg+xml
+
+Uri: https://piton.su/images/products/2.png
+File Name: C:\Users\lamzi\Desktop\testProj\piton.su\images\products\2.png
+Content Type: image/png
+
+Uri: https://piton.su/images/products/3.png
+File Name: C:\Users\lamzi\Desktop\testProj\piton.su\images\products\3.png
+Content Type: image/png
+
+Uri: https://piton.su/images/products/5.png
+File Name: C:\Users\lamzi\Desktop\testProj\piton.su\images\products\5.png
+Content Type: image/png
+
+Uri: https://piton.su/images/products/6.png
+File Name: C:\Users\lamzi\Desktop\testProj\piton.su\images\products\6.png
+Content Type: image/png
+
+Uri: https://piton.su/images/products/7.png
+File Name: C:\Users\lamzi\Desktop\testProj\piton.su\images\products\7.png
+Content Type: image/png
+
+Uri: https://piton.su/images/products/8.png
+File Name: C:\Users\lamzi\Desktop\testProj\piton.su\images\products\8.png
+Content Type: image/png
+
+Uri: https://piton.su/wp-content/uploads/2018/12/item-7.png
+File Name: C:\Users\lamzi\Desktop\testProj\piton.su\wp-content\uploads\2018\12\item-7.png
+Content Type: image/png
+
+Uri: https://piton.su/wp-content/uploads/2018/12/catalog_1.png
+File Name: C:\Users\lamzi\Desktop\testProj\piton.su\wp-content\uploads\2018\12\catalog_1.png
+Content Type: image/png
+
+Uri: https://piton.su/wp-content/uploads/2018/12/catalog_2.png
+File Name: C:\Users\lamzi\Desktop\testProj\piton.su\wp-content\uploads\2018\12\catalog_2.png
+Content Type: image/png
+
+Uri: https://piton.su/wp-content/uploads/2018/12/catalog_3.png
+File Name: C:\Users\lamzi\Desktop\testProj\piton.su\wp-content\uploads\2018\12\catalog_3.png
+Content Type: image/png
+
+Uri: https://piton.su/wp-content/themes/piton/assets/img/catalog/Right_page1.png
+File Name: C:\Users\lamzi\Desktop\testProj\piton.su\wp-content\themes\piton\assets\img\catalog\Right_page1.png
+Content Type: image/png
+
+Uri: https://piton.su/wp-content/themes/piton/assets/img/catalog/arrow-red.png
+File Name: C:\Users\lamzi\Desktop\testProj\piton.su\wp-content\themes\piton\assets\img\catalog\arrow-red.png
+Content Type: image/png
+
+Uri: https://piton.su/wp-content/themes/piton/assets/img/parts/plus.svg
+File Name: C:\Users\lamzi\Desktop\testProj\piton.su\wp-content\themes\piton\assets\img\parts\plus.svg
+Content Type: image/svg+xml
+
+Uri: https://piton.su/wp-content/themes/piton/assets/img/approach/car.png
+File Name: C:\Users\lamzi\Desktop\testProj\piton.su\wp-content\themes\piton\assets\img\approach\car.png
+Content Type: image/png
+
+Uri: https://piton.su/wp-content/themes/piton/assets/img/approach/Purse.png
+File Name: C:\Users\lamzi\Desktop\testProj\piton.su\wp-content\themes\piton\assets\img\approach\Purse.png
+Content Type: image/png
+
+Uri: https://piton.su/wp-content/themes/piton/assets/img/approach/File-red.svg
+File Name: C:\Users\lamzi\Desktop\testProj\piton.su\wp-content\themes\piton\assets\img\approach\File-red.svg
+Content Type: image/svg+xml
+
+Uri: https://piton.su/wp-content/themes/piton/assets/img/approach/Pencil.png
+File Name: C:\Users\lamzi\Desktop\testProj\piton.su\wp-content\themes\piton\assets\img\approach\Pencil.png
+Content Type: image/png
+
+Uri: https://piton.su/wp-content/themes/piton/assets/img/gallery/lupa.svg
+File Name: C:\Users\lamzi\Desktop\testProj\piton.su\wp-content\themes\piton\assets\img\gallery\lupa.svg
+Content Type: image/svg+xml
+
+Uri: https://piton.su/wp-content/themes/piton/assets/img/gallery/Location_pin.svg
+File Name: C:\Users\lamzi\Desktop\testProj\piton.su\wp-content\themes\piton\assets\img\gallery\Location_pin.svg
+Content Type: image/svg+xml
+
+Uri: https://piton.su/wp-content/themes/piton/assets/img/gallery/Photo_day.png
+File Name: C:\Users\lamzi\Desktop\testProj\piton.su\wp-content\themes\piton\assets\img\gallery\Photo_day.png
+Content Type: image/png
+
+Uri: https://piton.su/wp-content/themes/piton/assets/img/payment/Ruler.svg
+File Name: C:\Users\lamzi\Desktop\testProj\piton.su\wp-content\themes\piton\assets\img\payment\Ruler.svg
+Content Type: image/svg+xml
+
+Uri: https://piton.su/wp-content/themes/piton/assets/img/footer/phone.svg
+File Name: C:\Users\lamzi\Desktop\testProj\piton.su\wp-content\themes\piton\assets\img\footer\phone.svg
+Content Type: image/svg+xml
+
+Uri: https://piton.su/wp-content/themes/piton/assets/img/footer/Envelope.svg
+File Name: C:\Users\lamzi\Desktop\testProj\piton.su\wp-content\themes\piton\assets\img\footer\Envelope.svg
+Content Type: image/svg+xml
+
+Uri: https://piton.su/wp-content/themes/piton/assets/img/footer/Location_pin.svg
+File Name: C:\Users\lamzi\Desktop\testProj\piton.su\wp-content\themes\piton\assets\img\footer\Location_pin.svg
+Content Type: image/svg+xml
+
+Uri: https://piton.su/wp-content/themes/piton/assets/img/footer/Clock.svg
+File Name: C:\Users\lamzi\Desktop\testProj\piton.su\wp-content\themes\piton\assets\img\footer\Clock.svg
+Content Type: image/svg+xml
+
+Uri: https://piton.su/wp-content/themes/piton/assets/img/footer/Wallet.svg
+File Name: C:\Users\lamzi\Desktop\testProj\piton.su\wp-content\themes\piton\assets\img\footer\Wallet.svg
+Content Type: image/svg+xml
+
+Uri: https://piton.su/wp-content/themes/piton/assets/img/footer/Map.svg
+File Name: C:\Users\lamzi\Desktop\testProj\piton.su\wp-content\themes\piton\assets\img\footer\Map.svg
+Content Type: image/svg+xml
+
+Uri: https://piton.su/wp-content/themes/piton/assets/img/footer/top.svg
+File Name: C:\Users\lamzi\Desktop\testProj\piton.su\wp-content\themes\piton\assets\img\footer\top.svg
+Content Type: image/svg+xml
+
+Uri: https://test-101.ru/psquad-white.png
+File Name: C:\Users\lamzi\Desktop\testProj\piton.su\psquad-white.png
+Content Type: image/png
+
+Uri: https://piton.su/wp-content/themes/piton/assets/img/modals/calc-light.png
+File Name: C:\Users\lamzi\Desktop\testProj\piton.su\wp-content\themes\piton\assets\img\modals\calc-light.png
+Content Type: image/png
+
+Uri: https://piton.su/wp-content/themes/piton/assets/img/modals/Gravity_Hard_Cover_Book_Mockup_vol_2.png
+File Name: C:\Users\lamzi\Desktop\testProj\piton.su\wp-content\themes\piton\assets\img\modals\Gravity_Hard_Cover_Book_Mockup_vol_2.png
+Content Type: image/png
+
+Uri: https://piton.su/wp-content/themes/piton/assets/img/modals/Book.png
+File Name: C:\Users\lamzi\Desktop\testProj\piton.su\wp-content\themes\piton\assets\img\modals\Book.png
+Content Type: image/png
+
+Uri: https://piton.su/wp-content/themes/piton/assets/img/modals/Forma_1.svg
+File Name: C:\Users\lamzi\Desktop\testProj\piton.su\wp-content\themes\piton\assets\img\modals\Forma_1.svg
+Content Type: image/svg+xml
+
+Uri: https://piton.su/wp-content/themes/piton/assets/img/modals/calc.svg
+File Name: C:\Users\lamzi\Desktop\testProj\piton.su\wp-content\themes\piton\assets\img\modals\calc.svg
+Content Type: image/svg+xml
+
+Uri: https://piton.su/wp-content/themes/piton/assets/img/modals/Phone_handle.svg
+File Name: C:\Users\lamzi\Desktop\testProj\piton.su\wp-content\themes\piton\assets\img\modals\Phone_handle.svg
+Content Type: image/svg+xml
+
+Uri: https://piton.su/wp-content/themes/piton/assets/slick/slick.min.js
+File Name: C:\Users\lamzi\Desktop\testProj\piton.su\wp-content\themes\piton\assets\slick\slick.min.js
+Content Type: application/x-javascript
+
+Uri: https://piton.su/wp-content/themes/piton/assets/fancybox/jquery.fancybox.pack.js
+File Name: C:\Users\lamzi\Desktop\testProj\piton.su\wp-content\themes\piton\assets\fancybox\jquery.fancybox.pack.js
+Content Type: application/x-javascript
+
+Uri: https://piton.su/wp-content/themes/piton/assets/js/libs/fancySelect.js
+File Name: C:\Users\lamzi\Desktop\testProj\piton.su\wp-content\themes\piton\assets\js\libs\fancySelect.js
+Content Type: application/x-javascript
+
+Uri: https://piton.su/wp-content/themes/piton/assets/js/libs/jquery.maskedinput.min.js
+File Name: C:\Users\lamzi\Desktop\testProj\piton.su\wp-content\themes\piton\assets\js\libs\jquery.maskedinput.min.js
+Content Type: application/x-javascript
+
+Uri: https://piton.su/wp-content/themes/piton/assets/js/scripts.js?v=1.7
+File Name: C:\Users\lamzi\Desktop\testProj\piton.su\wp-content\themes\piton\assets\js\scripts.js
+Content Type: application/x-javascript
+
+Uri: https://piton.su/wp-includes/js/wp-embed.min.js?ver=4.9.12
+File Name: C:\Users\lamzi\Desktop\testProj\piton.su\wp-includes\js\wp-embed.min.js
+Content Type: application/x-javascript
+
+Uri: https://api.venyoo.ru/wnew.js?wc=venyoo/default/science&widget_id=4908356565860352
+File Name: C:\Users\lamzi\Desktop\testProj\piton.su\wnew.js
+Content Type: text/javascript
+
+Uri: https://wordpress.org/
+File Name: C:\Users\lamzi\Desktop\testProj\piton.su\index-1.htm
+Content Type: text/html
+
+Uri: https://piton.su/wp-content/themes/piton/assets/fancybox/fancybox_sprite.png
+File Name: C:\Users\lamzi\Desktop\testProj\piton.su\wp-content\themes\piton\assets\fancybox\fancybox_sprite.png
+Content Type: image/png
+
+Uri: https://piton.su/wp-content/themes/piton/assets/fancybox/fancybox_loading.gif
+File Name: C:\Users\lamzi\Desktop\testProj\piton.su\wp-content\themes\piton\assets\fancybox\fancybox_loading.gif
+Content Type: image/gif
+
+Uri: https://piton.su/wp-content/themes/piton/assets/fancybox/blank.gif
+File Name: C:\Users\lamzi\Desktop\testProj\piton.su\wp-content\themes\piton\assets\fancybox\blank.gif
+Content Type: image/gif
+
+Uri: https://piton.su/wp-content/themes/piton/assets/fancybox/fancybox_overlay.png
+File Name: C:\Users\lamzi\Desktop\testProj\piton.su\wp-content\themes\piton\assets\fancybox\fancybox_overlay.png
+Content Type: image/png
+
+Uri: https://piton.su/wp-content/themes/piton/assets/fancybox/fancybox_sprite@2x.png
+File Name: C:\Users\lamzi\Desktop\testProj\piton.su\wp-content\themes\piton\assets\fancybox\fancybox_sprite@2x.png
+Content Type: image/png
+
+Uri: https://piton.su/wp-content/themes/piton/assets/fancybox/fancybox_loading@2x.gif
+File Name: C:\Users\lamzi\Desktop\testProj\piton.su\wp-content\themes\piton\assets\fancybox\fancybox_loading@2x.gif
+Content Type: image/gif
+
+Uri: https://piton.su/wp-content/themes/piton/assets/fonts/Room-Bold.eot
+File Name: C:\Users\lamzi\Desktop\testProj\piton.su\wp-content\themes\piton\assets\fonts\Room-Bold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://piton.su/wp-content/themes/piton/assets/fonts/Room-Bold.eot?
+File Name: C:\Users\lamzi\Desktop\testProj\piton.su\wp-content\themes\piton\assets\fonts\Room-Bold-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://piton.su/wp-content/themes/piton/assets/fonts/Room-Bold.woff2
+File Name: C:\Users\lamzi\Desktop\testProj\piton.su\wp-content\themes\piton\assets\fonts\Room-Bold.woff2
+Content Type: application/font-woff2
+
+Uri: https://piton.su/wp-content/themes/piton/assets/fonts/Room-Bold.woff
+File Name: C:\Users\lamzi\Desktop\testProj\piton.su\wp-content\themes\piton\assets\fonts\Room-Bold.woff
+Content Type: application/font-woff
+
+Uri: https://piton.su/wp-content/themes/piton/assets/fonts/Room-Bold.ttf
+File Name: C:\Users\lamzi\Desktop\testProj\piton.su\wp-content\themes\piton\assets\fonts\Room-Bold.ttf
+Content Type: application/octet-stream
+
+Uri: https://piton.su/wp-content/themes/piton/assets/fonts/Room-Bold.svg
+File Name: C:\Users\lamzi\Desktop\testProj\piton.su\wp-content\themes\piton\assets\fonts\Room-Bold.svg
+Content Type: image/svg+xml
+
+Uri: https://piton.su/wp-content/themes/piton/assets/fonts/Montserrat-Regular.eot
+File Name: C:\Users\lamzi\Desktop\testProj\piton.su\wp-content\themes\piton\assets\fonts\Montserrat-Regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://piton.su/wp-content/themes/piton/assets/fonts/Montserrat-Regular.eot?
+File Name: C:\Users\lamzi\Desktop\testProj\piton.su\wp-content\themes\piton\assets\fonts\Montserrat-Regular-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://piton.su/wp-content/themes/piton/assets/fonts/Montserrat-Regular.woff2
+File Name: C:\Users\lamzi\Desktop\testProj\piton.su\wp-content\themes\piton\assets\fonts\Montserrat-Regular.woff2
+Content Type: application/font-woff2
+
+Uri: https://piton.su/wp-content/themes/piton/assets/fonts/Montserrat-Regular.woff
+File Name: C:\Users\lamzi\Desktop\testProj\piton.su\wp-content\themes\piton\assets\fonts\Montserrat-Regular.woff
+Content Type: application/font-woff
+
+Uri: https://piton.su/wp-content/themes/piton/assets/fonts/Montserrat-Regular.ttf
+File Name: C:\Users\lamzi\Desktop\testProj\piton.su\wp-content\themes\piton\assets\fonts\Montserrat-Regular.ttf
+Content Type: application/octet-stream
+
+Uri: https://piton.su/wp-content/themes/piton/assets/fonts/Montserrat-Regular.svg
+File Name: C:\Users\lamzi\Desktop\testProj\piton.su\wp-content\themes\piton\assets\fonts\Montserrat-Regular.svg
+Content Type: image/svg+xml
+
+Uri: https://piton.su/wp-content/themes/piton/assets/img/main/shadow.png
+File Name: C:\Users\lamzi\Desktop\testProj\piton.su\wp-content\themes\piton\assets\img\main\shadow.png
+Content Type: image/png
+
+Uri: https://piton.su/wp-content/themes/piton/assets/img/header/circle.png
+File Name: C:\Users\lamzi\Desktop\testProj\piton.su\wp-content\themes\piton\assets\img\header\circle.png
+Content Type: image/png
+
+Uri: https://piton.su/wp-content/themes/piton/assets/img/feedback/play.svg
+File Name: C:\Users\lamzi\Desktop\testProj\piton.su\wp-content\themes\piton\assets\img\feedback\play.svg
+Content Type: image/svg+xml
+
+Uri: https://piton.su/wp-content/themes/piton/assets/img/main/main-bg.jpg
+File Name: C:\Users\lamzi\Desktop\testProj\piton.su\wp-content\themes\piton\assets\img\main\main-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://piton.su/wp-content/themes/piton/assets/img/main/arrow-trigger-white.png
+File Name: C:\Users\lamzi\Desktop\testProj\piton.su\wp-content\themes\piton\assets\img\main\arrow-trigger-white.png
+Content Type: image/png
+
+Uri: https://piton.su/wp-content/themes/piton/assets/img/merit/merit-bg.jpg
+File Name: C:\Users\lamzi\Desktop\testProj\piton.su\wp-content\themes\piton\assets\img\merit\merit-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://piton.su/wp-content/themes/piton/assets/img/parts/parts-bg.jpg
+File Name: C:\Users\lamzi\Desktop\testProj\piton.su\wp-content\themes\piton\assets\img\parts\parts-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://piton.su/wp-content/themes/piton/assets/img/parts/house.png
+File Name: C:\Users\lamzi\Desktop\testProj\piton.su\wp-content\themes\piton\assets\img\parts\house.png
+Content Type: image/png
+
+Uri: https://piton.su/wp-content/themes/piton/assets/img/feedback/video-bg.png
+File Name: C:\Users\lamzi\Desktop\testProj\piton.su\wp-content\themes\piton\assets\img\feedback\video-bg.png
+Content Type: image/png
+
+Uri: https://piton.su/wp-content/themes/piton/assets/img/payment/payment-bg.jpg
+File Name: C:\Users\lamzi\Desktop\testProj\piton.su\wp-content\themes\piton\assets\img\payment\payment-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://piton.su/wp-content/themes/piton/assets/img/catalog/catalog-bg.jpg
+File Name: C:\Users\lamzi\Desktop\testProj\piton.su\wp-content\themes\piton\assets\img\catalog\catalog-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://piton.su/wp-content/themes/piton/assets/img/modals/pizza.png
+File Name: C:\Users\lamzi\Desktop\testProj\piton.su\wp-content\themes\piton\assets\img\modals\pizza.png
+Content Type: image/png
+
+Uri: https://piton.su/wp-content/themes/piton/assets/img/modals/home-modal.png
+File Name: C:\Users\lamzi\Desktop\testProj\piton.su\wp-content\themes\piton\assets\img\modals\home-modal.png
+Content Type: image/png
+
+Uri: https://piton.su/wp-content/themes/piton/assets/img/modals/man.png
+File Name: C:\Users\lamzi\Desktop\testProj\piton.su\wp-content\themes\piton\assets\img\modals\man.png
+Content Type: image/png
+
+Uri: https://piton.su/wp-content/themes/piton/assets/img/modals/bg-left.png
+File Name: C:\Users\lamzi\Desktop\testProj\piton.su\wp-content\themes\piton\assets\img\modals\bg-left.png
+Content Type: image/png
+
+Uri: https://piton.su/wp-content/themes/piton/assets/img/modals/yes.svg
+File Name: C:\Users\lamzi\Desktop\testProj\piton.su\wp-content\themes\piton\assets\img\modals\yes.svg
+Content Type: image/svg+xml
+
+Uri: https://piton.su/wp-content/themes/piton/assets/img/about/about-bg.jpg
+File Name: C:\Users\lamzi\Desktop\testProj\piton.su\wp-content\themes\piton\assets\img\about\about-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://piton.su/wp-content/themes/piton/assets/img/about/clients-bg.jpg
+File Name: C:\Users\lamzi\Desktop\testProj\piton.su\wp-content\themes\piton\assets\img\about\clients-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://piton.su/wp-content/themes/piton/assets/img/gallery-page/photo-bg.jpg
+File Name: C:\Users\lamzi\Desktop\testProj\piton.su\wp-content\themes\piton\assets\img\gallery-page\photo-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://piton.su/wp-content/themes/piton/assets/img/news/news-bg.jpg
+File Name: C:\Users\lamzi\Desktop\testProj\piton.su\wp-content\themes\piton\assets\img\news\news-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://piton.su/wp-content/themes/piton/assets/img/test/test-bg.jpg
+File Name: C:\Users\lamzi\Desktop\testProj\piton.su\wp-content\themes\piton\assets\img\test\test-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://piton.su/wp-content/themes/piton/assets/img/test/Approved.svg
+File Name: C:\Users\lamzi\Desktop\testProj\piton.su\wp-content\themes\piton\assets\img\test\Approved.svg
+Content Type: image/svg+xml
+
+Uri: https://mc.yandex.ru/watch/56439067/1
+File Name: C:\Users\lamzi\Desktop\testProj\piton.su\watch\56439067\1.gif
+Content Type: image/gif
+
